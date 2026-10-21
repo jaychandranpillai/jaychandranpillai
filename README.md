@@ -35,7 +35,6 @@ I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) 
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square) 
 
 **Developer Tools & Environments**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
