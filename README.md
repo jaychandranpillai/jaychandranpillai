@@ -53,17 +53,6 @@ I am actively working on my first end-to-end data analysis projects! I will be u
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaychandranpillai&show_icons=true&theme=tokyonight&hide_border=true" alt="Jaychandran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaychandranpillai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 **Happy Coding!** 
 
