@@ -49,18 +49,18 @@ I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory 
 
 ### 🚀 Featured Projects
 
-**📊 NumPy Sales Analysis**
-A mini project performing sales analysis of 5 products over 6 months using NumPy.
-👉 [View Project](https://github.com/jaychandranpillai/numpy-sales-analysis)
+<div align="center">
 
-**📈 PowerBI Superstore Dashboard**
-An interactive 2-page Power BI dashboard analyzing sales, profit, and discounting trends.
-👉 [View Project](https://github.com/jaychandranpillai/PowerBI-Superstore-Dashboard)
+| 📊 NumPy Sales Analysis | 📈 PowerBI Dashboard | 📚 NumPy Notes |
+|:-:|:-:|:-:|
+| Sales analysis of 5 products over 6 months | Interactive 2-page sales & profit dashboard | Daily Jupyter notes from basics to broadcasting |
+| [View Project →](https://github.com/jaychandranpillai/numpy-sales-analysis) | [View Project →](https://github.com/jaychandranpillai/PowerBI-Superstore-Dashboard) | [View Notes →](https://github.com/jaychandranpillai/NumPy) |
 
-**📚 NumPy Daily Learning Notes**
-Comprehensive, daily Jupyter Notebook notes covering everything from basics to advanced array broadcasting.
-👉 [View Notes](https://github.com/jaychandranpillai/NumPy)
+</div>
 
+---
+
+**🛠️ Currently Building:** My first end-to-end data analysis project! Real-world datasets, web scraping & predictive modeling coming next month 🚀
 ---
 
 **🛠️ Currently Building:**
