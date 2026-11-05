@@ -14,12 +14,12 @@
 
 ---
 
-### 👨💻 About Me
+### 👨‍💻 About Me
 I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory Data Analysis (EDA). I enjoy transforming raw datasets into actionable insights, designing reproducible analysis pipelines, and automating data workflows.
 
 * 🎓 **Education:** B.Sc. in Computer Science (2023–2026), N.E.S Ratnam College
 * 💼 **Status:** Fresher actively seeking **Internship Opportunities** in Data Analysis
-*  **Location:** Maharashtra, India
+* 📍 **Location:** Maharashtra, India
 * 💬 **Languages:** English, Hindi, Tamil
 * 📚 **Currently Learning:** Advanced NumPy, Pandas, and Data Visualization
 
@@ -46,6 +46,7 @@ I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Link |
@@ -56,14 +57,9 @@ I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory 
 
 ---
 
-**🛠️ Currently Building:** End-to-end data analysis project with real-world datasets, web scraping & predictive modeling *(Coming Next Month!)*
-
-**🛠️ Currently Building:**
-I am actively working on my first end-to-end data analysis project! I will be updating this section soon with my work on real-world datasets, web scraping, and predictive modeling. *(Coming Next Month!)*
+> **🛠️ Currently Building:** My first end-to-end data analysis project! I am actively working with real-world datasets, web scraping, and predictive modeling. *(Full release coming next month!)*
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
-**Happy Coding!** 
-
-</div>
+**Happy Coding!** 🚀
