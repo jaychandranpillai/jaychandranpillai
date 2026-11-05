@@ -48,21 +48,15 @@ I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory 
 ---
 ### 🚀 Featured Projects
 
-- **[NumPy Sales Analysis](https://github.com/jaychandranpillai/numpy-sales-analysis)** `NumPy` `Data Analysis`
-  A mini project performing sales analysis of 5 products over 6 months.
-
-- **[PowerBI Superstore Dashboard](https://github.com/jaychandranpillai/PowerBI-Superstore-Dashboard)** `Power BI` `Visualization`
-  An interactive 2-page dashboard analyzing sales, profit, and discounting trends.
-
-- **[NumPy Daily Learning Notes](https://github.com/jaychandranpillai/NumPy)** `Jupyter` `Python` `Documentation`
-  Comprehensive daily notes covering everything from basics to advanced array broadcasting.
-
-> **🛠️ Currently Building:** First end-to-end data analysis project with real-world datasets, web scraping & predictive modeling *(Coming Next Month!)*
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **📊 NumPy Sales Analysis** | Sales analysis of 5 products over 6 months using NumPy | [View Project](https://github.com/jaychandranpillai/numpy-sales-analysis) |
+| **📈 PowerBI Superstore Dashboard** | Interactive 2-page dashboard analyzing sales, profit & discounting | [View Project](https://github.com/jaychandranpillai/PowerBI-Superstore-Dashboard) |
+| **📚 NumPy Daily Learning Notes** | Comprehensive daily Jupyter Notebook notes from basics to broadcasting | [View Notes](https://github.com/jaychandranpillai/NumPy) |
 
 ---
 
-**🛠️ Currently Building:** My first end-to-end data analysis project! Real-world datasets, web scraping & predictive modeling coming next month 🚀
----
+**🛠️ Currently Building:** End-to-end data analysis project with real-world datasets, web scraping & predictive modeling *(Coming Next Month!)*
 
 **🛠️ Currently Building:**
 I am actively working on my first end-to-end data analysis project! I will be updating this section soon with my work on real-world datasets, web scraping, and predictive modeling. *(Coming Next Month!)*
