@@ -18,7 +18,7 @@
 I am a passionate **Data Analyst** with a focus on Python, SQL, and Exploratory Data Analysis (EDA). I enjoy transforming raw datasets into actionable insights, designing reproducible analysis pipelines, and automating data workflows.
 
 * 🎓 **Education:** B.Sc. in Computer Science (2023–2026), N.E.S Ratnam College
-* 💼 **Status:** Fresher actively seeking **Internship Opportunities** in Data Analysis
+* 💼 **Status:** Fresher actively seeking **Opportunities** 
 * 📍 **Location:** Maharashtra, India
 * 💬 **Languages:** English, Hindi, Tamil
 * 📚 **Currently Learning:** Advanced NumPy, Pandas, and Data Visualization
